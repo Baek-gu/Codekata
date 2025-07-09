@@ -171,6 +171,7 @@
     <ClCompile Include="배열의 평균값.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="부족한 금액 계산하기.cpp" />
     <ClCompile Include="수박수박수박수.cpp" />
     <ClCompile Include="숫자 비교하기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
