@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\Codekata\\Codekata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{467ECBF8-7F3B-4F18-AEAD-6AD09D7D5C6C}|Codekata.csproj|c:\\git\\codekata\\codekata\\codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{467ECBF8-7F3B-4F18-AEAD-6AD09D7D5C6C}|Codekata.csproj|solutionrelative:codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp",
+              "DocumentMoniker": "C:\\Git\\Codekata\\Codekata\\Codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp",
+              "RelativeDocumentMoniker": "Codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp",
+              "ToolTip": "C:\\Git\\Codekata\\Codekata\\Codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp",
+              "RelativeToolTip": "Codakata.cpp\\\uC9C1\uC0AC\uAC01\uD615 \uBCC4\uCC0D\uAE30.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T06:32:33.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

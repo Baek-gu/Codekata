@@ -1,0 +1,15 @@
+C:\Git\Codekata\Codekata\bin\Debug\net9.0\Codekata.exe
+C:\Git\Codekata\Codekata\bin\Debug\net9.0\Codekata.deps.json
+C:\Git\Codekata\Codekata\bin\Debug\net9.0\Codekata.runtimeconfig.json
+C:\Git\Codekata\Codekata\bin\Debug\net9.0\Codekata.dll
+C:\Git\Codekata\Codekata\bin\Debug\net9.0\Codekata.pdb
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.AssemblyInfoInputs.cache
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.AssemblyInfo.cs
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.csproj.CoreCompileInputs.cache
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.sourcelink.json
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.dll
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\refint\Codekata.dll
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.pdb
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\Codekata.genruntimeconfig.cache
+C:\Git\Codekata\Codekata\obj\Debug\net9.0\ref\Codekata.dll
