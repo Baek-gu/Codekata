@@ -14,3 +14,4 @@ vector<long long> solution(int x, int n) {
 }
 
 //안녕하세요
+//ㅂㅈㅇㅂㅈㅇ
