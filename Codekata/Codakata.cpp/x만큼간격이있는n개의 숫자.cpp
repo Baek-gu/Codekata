@@ -12,3 +12,5 @@ vector<long long> solution(int x, int n) {
 
     return answer;
 }
+
+//안녕하세요
